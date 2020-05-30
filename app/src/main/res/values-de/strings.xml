@@ -23,7 +23,7 @@
    <string name="black">Dunkel</string>
    <string name="theme_color">Thema Farbe</string>
    <string name="widget">Widget</string>
-   <string name="show">Show</string>
+   <string name="show">Zeigen</string>
    <string name="layout">Layout</string>
    <string name="number_of_books">Anzahl der Dokumente</string>
    <string name="remember_reading_mode">Lesemodus merken</string>
@@ -259,7 +259,7 @@
    <string name="file_info">Datei-Information</string>
    <string name="archive_files">Archivdateien</string>
    <string name="open_file">Öffne Datei</string>
-   <string name="read_a_book">Ein Buch lesen</string>
+   <string name="read_a_book">Buch lesen</string>
    <string name="___SORT___AND___VIEW___SECTION___"></string>
    <string name="by_path">Dateipfad</string>
    <string name="folder">Verzeichnis</string>

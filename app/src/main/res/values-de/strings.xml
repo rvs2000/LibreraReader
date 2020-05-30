@@ -23,8 +23,8 @@
    <string name="black">Dunkel</string>
    <string name="theme_color">Thema Farbe</string>
    <string name="widget">Widget</string>
-   <string name="show">Show</string>
-   <string name="layout">Layout</string>
+   <string name="show">Zeigen</string>
+   <string name="layout">Ansicht</string>
    <string name="number_of_books">Anzahl der Dokumente</string>
    <string name="remember_reading_mode">Lesemodus merken</string>
    <string name="opening_the_last_book_when_the_application_starts">Beim Start das letzte Dokument öffnen</string>
